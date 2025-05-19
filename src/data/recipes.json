@@ -1,0 +1,138 @@
+[
+  {
+    "id": 1,
+    "slug": "cinnamon-pancakes",
+    "title": "Cinnamon Pancakes",
+    "image": "cinnamon-pancakes.jpg",
+    "ingredients": [
+      "1 cup all-purpose flour",
+      "2 tbsp sugar",
+      "1 tbsp ground cinnamon",
+      "2 tsp baking powder",
+      "1 cup milk",
+      "1 egg",
+      "2 tbsp melted butter",
+      "1 tsp vanilla extract"
+    ],
+    "steps": [
+      "In a bowl, whisk together flour, sugar, cinnamon, and baking powder.",
+      "In another bowl, mix milk, egg, melted butter, and vanilla extract.",
+      "Combine the wet and dry ingredients until just mixed.",
+      "Heat a non-stick pan over medium heat.",
+      "Pour 1/4 cup of batter per pancake into the pan.",
+      "Cook until bubbles form, flip, and cook the other side until golden."
+    ]
+  },
+  {
+    "id": 2,
+    "slug": "classic-burger",
+    "title": "Classic Burger",
+    "image": "burger.jpg",
+    "ingredients": [
+      "1 burger bun",
+      "1 beef patty",
+      "1 slice cheddar cheese",
+      "Lettuce",
+      "Tomato slices",
+      "Onion slices",
+      "Ketchup and mustard"
+    ],
+    "steps": [
+      "Grill the beef patty until fully cooked.",
+      "Toast the burger bun lightly.",
+      "Place the patty on the bottom bun.",
+      "Add cheese, lettuce, tomato, and onion.",
+      "Top with ketchup and mustard, then close with top bun."
+    ]
+  },
+  {
+    "id": 3,
+    "slug": "chicken-tacos",
+    "title": "Chicken Tacos",
+    "image": "cilantro-lime-chicken.jpg",
+    "ingredients": [
+      "8 small corn tortillas",
+      "2 chicken breasts, grilled and shredded",
+      "1 cup shredded lettuce",
+      "1/2 cup diced tomatoes",
+      "1/4 cup chopped onions",
+      "1/4 cup shredded cheese",
+      "Sour cream and salsa to serve"
+    ],
+    "steps": [
+      "Warm tortillas on a pan or oven.",
+      "Fill each tortilla with shredded chicken.",
+      "Top with lettuce, tomatoes, onions, and cheese.",
+      "Add sour cream and salsa as desired.",
+      "Serve immediately."
+    ]
+  },
+  {
+    "id": 4,
+    "slug": "caesar-salad",
+    "title": "Caesar Salad",
+    "image": "caesar-salad.jpg",
+    "ingredients": [
+      "1 head Romaine lettuce, chopped",
+      "1/2 cup croutons",
+      "1/4 cup grated Parmesan cheese",
+      "1/3 cup Caesar dressing",
+      "2 grilled chicken breasts (optional)"
+    ],
+    "steps": [
+      "In a large bowl, toss lettuce with Caesar dressing.",
+      "Add croutons and Parmesan cheese.",
+      "Top with sliced grilled chicken if desired.",
+      "Serve chilled."
+    ]
+  },
+  {
+    "id": 5,
+    "slug": "spaghetti-carbonara",
+    "title": "Spaghetti Carbonara",
+    "image": "spaghetti-carbonara.jpg",
+    "ingredients": [
+      "200g spaghetti",
+      "100g pancetta or bacon, diced",
+      "2 large eggs",
+      "1/2 cup grated Parmesan cheese",
+      "2 cloves garlic, minced",
+      "Salt and black pepper",
+      "Fresh parsley (optional)"
+    ],
+    "steps": [
+      "Cook spaghetti in salted boiling water until al dente.",
+      "Fry pancetta in a pan until crispy, add garlic last minute.",
+      "Beat eggs and mix with Parmesan cheese.",
+      "Drain pasta and immediately toss with egg-cheese mixture and pancetta off the heat.",
+      "Season with salt and pepper, garnish with parsley.",
+      "Serve immediately."
+    ]
+  },
+  {
+    "id": 6,
+    "slug": "vegetable-stir-fry",
+    "title": "Vegetable Stir Fry",
+    "image": "vegetable-stir-fry.jpg",
+    "ingredients": [
+      "2 tbsp vegetable oil",
+      "1 red bell pepper, sliced",
+      "1 green bell pepper, sliced",
+      "1 carrot, julienned",
+      "1 zucchini, sliced",
+      "1 cup broccoli florets",
+      "2 cloves garlic, minced",
+      "3 tbsp soy sauce",
+      "1 tbsp sesame oil",
+      "1 tsp grated ginger"
+    ],
+    "steps": [
+      "Heat vegetable oil in a wok or large pan over high heat.",
+      "Add garlic and ginger, stir-fry for 30 seconds.",
+      "Add all vegetables and stir-fry until tender-crisp, about 5-7 minutes.",
+      "Add soy sauce and sesame oil, toss to coat.",
+      "Serve hot with rice or noodles."
+    ]
+  }
+  
+]
