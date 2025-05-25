@@ -6,14 +6,13 @@ import Link from "next/link"
 import type { Recipe } from "@/types/recipe"
 import type { Metadata } from "next"
 
-// Renamed to avoid conflict with Next.js internal PageProps type
 type RecipePageProps = {
   params: Promise<{
     slug: string
   }>
 }
 
-// Updated to use the renamed type
+
 export async function generateMetadata({ params }: RecipePageProps): Promise<Metadata> {
   const { slug } = await params
   const filePath = path.join(process.cwd(), "src", "data", "recipes.json")
@@ -28,7 +27,7 @@ export async function generateMetadata({ params }: RecipePageProps): Promise<Met
   return { title: recipe.title }
 }
 
-// Pre-generate static paths for all recipe slugs
+
 export async function generateStaticParams() {
   const filePath = path.join(process.cwd(), "src", "data", "recipes.json")
   const data = await fs.readFile(filePath, "utf-8")
@@ -39,7 +38,7 @@ export async function generateStaticParams() {
   }))
 }
 
-// Updated to use the renamed type
+
 export default async function RecipePage({ params }: RecipePageProps) {
   const { slug } = await params
   const filePath = path.join(process.cwd(), "src", "data", "recipes.json")
