@@ -2,7 +2,7 @@ import fs from 'fs/promises';
 import path from 'path';
 import Link from 'next/link';
 import Image from 'next/image';
-import type { Recipe } from '../../types/recipe';
+import { Recipe } from '../types/recipe';
 
 export default async function Home() {
   const filePath = path.join(process.cwd(), 'src', 'data', 'recipes.json');
